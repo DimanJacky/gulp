@@ -1,0 +1,14 @@
+{
+  "name": "myproject",
+  "version": "1.0.0",
+  "description": "My First Gulp Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "WebDesign Master",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
